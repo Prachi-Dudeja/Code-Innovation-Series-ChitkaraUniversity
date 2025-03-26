@@ -1,4 +1,7 @@
 # CIS - Chitkara University
+Hello, there
+just for educational purpose
+
 Code Innovation Series powered by GitHub
 Project Submission for CIS - Chitkara University.
 
